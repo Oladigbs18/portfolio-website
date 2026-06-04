@@ -81,7 +81,7 @@ export default function Home() {
       {/* Navigation */}
       <nav className="sticky top-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border">
         <div className="container flex items-center justify-between h-16">
-          <div className="text-2xl font-bold font-serif">Portfolio</div>
+          <div className="text-2xl font-bold font-serif">Aaliyah Oladigbolu</div>
           <div className="flex items-center gap-8">
             <a href="#work" className="text-sm hover:text-accent transition-colors">Work</a>
             <a href="#process" className="text-sm hover:text-accent transition-colors">Process</a>
@@ -339,7 +339,7 @@ export default function Home() {
               Email Me
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/aaliyah-oladigbolu-54a452244"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 border border-border hover:border-accent hover:text-accent rounded transition-colors"
@@ -363,7 +363,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="py-8 bg-secondary/30 border-t border-border">
         <div className="container text-center text-sm text-foreground/60">
-          <p>© 2024 Your Name. All rights reserved.</p>
+          <p>© 2024 Aaliyah Oladigbolu. All rights reserved.</p>
         </div>
       </footer>
     </div>
