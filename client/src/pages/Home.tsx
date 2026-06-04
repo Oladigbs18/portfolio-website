@@ -339,7 +339,7 @@ export default function Home() {
               LinkedIn
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/Oladigbs18"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 border border-border hover:border-accent hover:text-accent rounded transition-colors"
