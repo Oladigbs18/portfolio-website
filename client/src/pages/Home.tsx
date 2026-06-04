@@ -28,7 +28,7 @@ const projects: Project[] = [
     problem: "Users struggle to track spending and manage transactions efficiently.",
     solution: "Designed a clean fintech dashboard with expense tracking, budget overview, transaction history, and savings goals.",
     deliverables: ["User flow", "Low-fidelity wireframes", "High-fidelity screens", "Interactive prototype"],
-    figmaLink: "https://www.figma.com/",
+    figmaLink: "https://rise-recap-67005995.figma.site/",
   },
   {
     id: "ecommerce",
@@ -37,7 +37,7 @@ const projects: Project[] = [
     problem: "Customers abandon purchases due to confusing navigation.",
     solution: "Created a seamless shopping experience with product catalog, detail pages, shopping cart, and optimized checkout flow.",
     deliverables: ["Product catalog", "Product detail page", "Shopping cart", "Checkout flow"],
-    figmaLink: "https://www.figma.com/",
+    figmaLink: "https://omen-open-45063717.figma.site/",
   },
   {
     id: "community",
@@ -46,16 +46,7 @@ const projects: Project[] = [
     problem: "Community managers lack visibility into engagement metrics and member activity.",
     solution: "Built an analytics dashboard with member analytics, rewards tracking, event management, and engagement metrics.",
     deliverables: ["Dashboard layout", "Analytics visualizations", "Real-time data display", "Export functionality"],
-    figmaLink: "https://www.figma.com/",
-  },
-  {
-    id: "healthcare",
-    title: "Healthcare Appointment Platform",
-    description: "A mobile-first healthcare solution that simplifies appointment scheduling and patient management.",
-    problem: "Patients find it difficult to schedule appointments and access medical records.",
-    solution: "Designed a mobile-first platform with appointment booking, doctor search, medical records overview, and notifications.",
-    deliverables: ["Appointment booking flow", "Doctor search interface", "Medical records view", "Notification system"],
-    figmaLink: "https://www.figma.com/",
+    figmaLink: "https://quartz-gauge-34589032.figma.site/",
   },
 ];
 
