@@ -323,7 +323,7 @@ export default function Home() {
 
           <div className="flex justify-center gap-6 mb-12">
             <a
-              href="mailto:hello@example.com"
+              href="mailto:aaliyaholadigbolu@gmail.com"
               className="inline-flex items-center gap-2 px-6 py-3 bg-accent text-accent-foreground rounded hover:bg-accent/90 transition-colors"
             >
               <Mail size={18} />
